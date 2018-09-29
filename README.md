@@ -1,2 +1,2 @@
-# recommendation_engine
+# Recommendation engine
 Recommendation Engine for movies preferences
